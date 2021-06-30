@@ -1,0 +1,19 @@
+{
+  "name": "ticker",
+  "version": "1.0.0",
+  "description": "Asset price tracker",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "btc"
+  ],
+  "author": "Mortalys",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0"
+  }
+}
